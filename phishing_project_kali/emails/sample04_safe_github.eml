@@ -1,0 +1,21 @@
+Return-Path: <noreply@github.com>
+Received: from out-18.smtp.github.com (192.30.252.201) by mx.target-org.local with ESMTPS
+Authentication-Results: mx.target-org.local; spf=pass (github.com: domain of noreply@github.com designates 192.30.252.201 as permitted sender); dkim=pass header.d=github.com; dmarc=pass
+From: "GitHub" <noreply@github.com>
+To: dev-intern@example.com
+Subject: [GitHub] A new public key was added to your account
+Date: Sat, 14 Nov 2026 12:15:09 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hey dev-intern,
+
+The following SSH key was added to your account:
+Title: kali-soc-workstation
+Fingerprint: SHA256:9xK8mP2vL4nQ7wR1tY6uI0oP3aS5dF8gH2jK4lZ9xC0
+
+If you believe this key was added in error, you can remove the key and disable access at:
+https://github.com/settings/keys
+
+Thanks,
+The GitHub Team

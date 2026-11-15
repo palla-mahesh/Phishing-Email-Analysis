@@ -1,0 +1,19 @@
+Return-Path: <notifications@interncircle.in>
+Received: from mail.interncircle.in (198.51.100.12) by mx.target-org.local with ESMTPS
+Authentication-Results: mx.target-org.local; spf=pass; dkim=pass header.d=interncircle.in; dmarc=pass
+From: "InternCircle" <notifications@interncircle.in>
+To: intern@example.com
+Subject: Project 03: Phishing Email Analysis - Submission Reminder
+Date: Sat, 14 Nov 2026 14:00:00 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Intern,
+
+This is a friendly reminder regarding your Cybersecurity track assignment: Project 03 (Phishing Email Analysis).
+
+When you are ready, upload your analysis document, warning sign checklist, safe reporting process, and one-page awareness guide to your cloud drive and submit the view-only link via your My Tasks dashboard:
+https://interncircle.in/dashboard/tasks
+
+Best regards,
+InternCircle Mentorship Team

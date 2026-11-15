@@ -1,0 +1,18 @@
+Return-Path: <alert@micros0ft-auth-support.com>
+Received: from relay.micros0ft-auth-support.com (203.0.113.88) by mx.target-org.local with ESMTPS
+Authentication-Results: mx.target-org.local; spf=softfail; dkim=fail; dmarc=fail
+From: "Microsoft Account Team" <security@micros0ft-auth-support.com>
+To: employee@example.com
+Subject: Action Required: Your Office 365 Password Expires in 2 Hours
+Date: Sat, 14 Nov 2026 10:02:11 +0530
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear User,</p>
+<p>Your corporate Microsoft 365 password is scheduled to expire in <b>2 hours</b>. Failure to retain your current credentials will lock your mailbox.</p>
+<p><a href="http://login-micros0ft-auth-support.com/mfa-verify">Keep Current Password</a></p>
+<p>Microsoft Security Operations</p>
+</body>
+</html>

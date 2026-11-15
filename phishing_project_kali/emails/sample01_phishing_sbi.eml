@@ -1,0 +1,19 @@
+Return-Path: <bounce-kyc@sbi-secure-alert.com>
+Received: from mail.sbi-secure-alert.com (198.51.100.42) by mx.target-org.local with ESMTPS
+Authentication-Results: mx.target-org.local; spf=fail (sender IP is 198.51.100.42); dkim=none; dmarc=fail
+From: "SBI Bank" <support@sbi-secure-alert.com>
+Reply-To: noreply-kyc@sbi-kyc-update.xyz
+To: customer@example.com
+Subject: URGENT: Your bank account will be blocked today - verify KYC now
+Date: Sat, 14 Nov 2026 09:14:22 +0530
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your SBI Bank savings account will be <b>permanently blocked today</b> due to incomplete KYC verification.</p>
+<p>Click here to <a href="http://sbi-kyc-update.xyz/login">Verify now</a> and enter your Debit Card Number, PIN, and One-Time Password (OTP) immediately.</p>
+<p>Regards,<br>SBI Security Department</p>
+</body>
+</html>

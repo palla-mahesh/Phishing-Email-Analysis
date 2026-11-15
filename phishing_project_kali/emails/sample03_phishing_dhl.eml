@@ -1,0 +1,18 @@
+Return-Path: <dispatch@dhl-parcel-track.info>
+Received: from mail.dhl-parcel-track.info (192.0.2.155) by mx.target-org.local with ESMTPS
+Authentication-Results: mx.target-org.local; spf=fail; dkim=none; dmarc=fail
+From: "DHL Express Delivery" <dispatch@dhl-parcel-track.info>
+To: recipient@example.com
+Subject: Hold Notice: Unpaid Customs Duty on Shipment #8842
+Date: Sat, 14 Nov 2026 11:30:45 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued Customer,
+
+Your international parcel (#8842) is currently held at customs clearance due to an unpaid handling fee of INR 149.
+
+Please review the attached invoice (Delivery_Invoice_8842.pdf.html) and complete payment within 12 hours to avoid return to sender.
+Payment portal: http://bit.ly/dhl-pay-8842
+
+DHL Express Logistics
